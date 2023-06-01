@@ -14,9 +14,8 @@ Link to individual posts by appending `?<issue_number>` to `index.html`.
 
 The Github API enforces a rate limit of 60 requests per hour per IP address (see [#17](https://github.com/mateogianolio/issuance/issues/17)).
 
-### Live examples
+**https://koolbuddhi.github.io/technotes/**
 
-* **https://casualjavascript.com**
 
 ### Styling
 
